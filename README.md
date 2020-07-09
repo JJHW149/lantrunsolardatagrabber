@@ -1,5 +1,5 @@
 # Lantrun Solar Data Grabber
-Data collection tool for Lantrun solar systems
+Data collection tool for Lantrun and Sapphire solar systems
 
 ## PVoutLantrun.py  
 This python tool makes a request to lantruns solar monitor system to collect the current solar generation and uploads it to PVoutput.org   
